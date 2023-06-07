@@ -1,0 +1,61 @@
+{
+    "1001": {
+        "rarity": 0,
+        "gear_type": "helmet",
+        "1": {
+            "max_health": 100,
+            "min_attack": 20,
+            "max_attack": 30,
+            "defense": 5,
+            "min_speed": 1,
+            "max_speed": 1,
+            "tease": 0,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 0.8
+        },
+        "2": {
+            "max_health": 150,
+            "min_attack": 20,
+            "max_attack": 30,
+            "defense": 5,
+            "min_speed": 1,
+            "max_speed": 1,
+            "tease": 0,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 0.8
+        },
+        "3": {
+            "max_health": 200,
+            "min_attack": 20,
+            "max_attack": 30,
+            "defense": 5,
+            "min_speed": 1,
+            "max_speed": 1,
+            "tease": 0,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 0.8
+        },
+        "4": {
+            "max_health": 250,
+            "min_attack": 20,
+            "max_attack": 30,
+            "defense": 5,
+            "min_speed": 1,
+            "max_speed": 1,
+            "tease": 0,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 0.8
+        },
+        "5": {
+            "max_health": 300,
+            "min_attack": 20,
+            "max_attack": 30,
+            "defense": 5,
+            "min_speed": 1,
+            "max_speed": 1,
+            "tease": 0,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 0.8
+        }
+    }
+}
