@@ -1,0 +1,55 @@
+{
+    "mobs": {
+        "test_mob_1": {
+            "name": "TM1",
+            "max_health": 688,
+            "min_attack": 14,
+            "max_attack": 18,
+            "defense": 4,
+            "min_speed": 6,
+            "max_speed": 8,
+            "tease": 1,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 1.4
+        },
+        "test_mob_2": {
+            "name": "TM2",
+            "max_health": 688,
+            "min_attack": 14,
+            "max_attack": 18,
+            "defense": 4,
+            "min_speed": 6,
+            "max_speed": 8,
+            "tease": 1,
+            "critical_rate": 0.03,
+            "critical_damage_bonus": 1.4
+        }
+    },
+    "stages": {
+        "test_stage": {
+            "min_money": 500,
+            "max_money": 1000,
+            "min_exp": 50,
+            "max_exp": 100,
+            "mob_count": 100,
+            "mobs": {
+                "test_mob_1": 2,
+                "test_mob_2": 1
+            }
+        }
+    },
+    "main": {
+        "name": "測試副本",
+        "description":"你媽",
+        "min_money": 500,
+        "max_money": 1000,
+        "min_exp": 50,
+        "max_exp": 100,
+        "stage_count": 100,
+        "stages": [
+            "test_stage",
+            "test_stage",
+            "test_stage"
+        ]
+    }
+}

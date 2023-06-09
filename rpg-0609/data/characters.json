@@ -1,0 +1,23 @@
+{
+    "mobot": {
+        "name": "Mobot",
+        "max_health": 68800000,
+        "min_attack": 14,
+        "max_attack": 18,
+        "defense": 4,
+        "min_speed": 6,
+        "max_speed": 8,
+        "tease": 1,
+        "critical_rate": 0.03,
+        "critical_damage_bonus": 1.4,
+        "max_health_per_level": 44,
+        "min_attack_per_level": 1.14,
+        "max_attack_per_level": 1.48,
+        "defense_per_level": 0.11,
+        "min_speed_per_level": 0.03,
+        "max_speed_per_level": 0.05,
+        "tease_per_level": 0,
+        "critical_rate_per_level": 0.0006,
+        "critical_damage_bonus_per_level": 0.0006
+    }
+}
